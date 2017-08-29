@@ -1,0 +1,10 @@
+name: MayinTarlasi
+version: 1
+load: STARTUP
+main: mcplayerr.Main
+author: Minecraftplayerr
+website: https://www.mcplayerr.tk
+commands:
+   mt:
+      description: Mayın Tarlası
+      usage: /mt ayarla, /mt başlat [zorluk]
