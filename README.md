@@ -1,6 +1,6 @@
 # Mayin-Tarlasi
-Minecraft Minigame
-Versiyon 1.12.1 için yapılmıştır.
-Komutlar:
-  /mt ayarla
+Minecraft Minigame<br>
+Versiyon 1.12.1 için yapılmıştır.<br>
+Komutlar:<br>
+  /mt ayarla<br>
   /mt başlat [zorluk]
